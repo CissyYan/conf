@@ -54,7 +54,7 @@ function operator(proxies) {
     insertIndex,
     0,
     Object.assign({}, proxies[0], {
-      server: "traffic-in-lite.811920.xyz",
+      server: "traffic-in-aaa.811920.xyz",
       port: 50012,
       name: "🇸🇬 SG 苯巴比妥钠 0.01x",
     })
@@ -62,7 +62,7 @@ function operator(proxies) {
 
   proxies.push(
     Object.assign({}, proxies[0], {
-      server: "traffic-in-lite.811920.xyz",
+      server: "traffic-in-aaa.811920.xyz",
       port: 50009,
       name: "🇱🇺 LU 硝酸二甲酯 0.01x",
     })
@@ -70,7 +70,7 @@ function operator(proxies) {
 
   proxies.push(
     Object.assign({}, proxies[0], {
-      server: "traffic-in-lite.811920.xyz",
+      server: "traffic-in-aaa.811920.xyz",
       port: 54001,
       name: "🎯 TG 碳酸二甲酯",
     })
@@ -78,7 +78,7 @@ function operator(proxies) {
   
   proxies.push(
     Object.assign({}, proxies[0], {
-      server: "traffic-in-lite.811920.xyz",
+      server: "traffic-in-aaa.811920.xyz",
       port: 54002,
       name: "🎯 TK 澳士蛋白酶 x 3.00",
     })
@@ -86,7 +86,7 @@ function operator(proxies) {
   
   proxies.push(
     Object.assign({}, proxies[0], {
-      server: "traffic-in-lite.811920.xyz",
+      server: "traffic-in-aaa.811920.xyz",
       port: 54003,
       name: "🎯 TK 日库木糖醇 x 3.00",
     })
@@ -94,7 +94,7 @@ function operator(proxies) {
   
   proxies.push(
     Object.assign({}, proxies[0], {
-      server: "traffic-in-lite.811920.xyz",
+      server: "traffic-in-aaa.811920.xyz",
       port: 54005,
       name: "🎯 TK 美罗培南素 x 3.00",
     })
@@ -102,7 +102,7 @@ function operator(proxies) {
   
   proxies.push(
     Object.assign({}, proxies[0], {
-      server: "traffic-in-lite.811920.xyz",
+      server: "traffic-in-aaa.811920.xyz",
       port: 54006,
       name: "🇳🇬 NG 尼达莫德酮 x 3.00",
     })
