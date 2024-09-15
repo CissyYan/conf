@@ -1,0 +1,13 @@
+# > Disney Plus
+
+USER-AGENT,Disney*
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
+DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
+DOMAIN-SUFFIX,prod-static.disney-plus.net
+DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
+DOMAIN-SUFFIX,prod-static.disney-plus.net
+DOMAIN-SUFFIX,appconfigs.disney-plus.net
+DOMAIN-SUFFIX,disney.images.edge.bamgrid.com
+DOMAIN-SUFFIX,disney.playback.edge.bamgrid.com
+DOMAIN-SUFFIX,appconfigs.disney-plus.net
