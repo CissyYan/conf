@@ -1,0 +1,14 @@
+{
+    "name": "icons",
+    "description": "By YAN",
+    "icons": [
+        {
+            "name": "AI",
+            "url": "https://raw.githubusercontent.com/CissyYan/pics/main/ai.png"
+        },
+        {
+            "name": "Damai",
+            "url": "https://raw.githubusercontent.com/CissyYan/pics/main/Damai.png"
+        }
+    ]
+}
